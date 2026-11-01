@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large or bulk downloads (the files this repository uses are committed in data/raw/)
+data/raw/*.zip
+data/raw/*.pdf
+
+# Secrets
+*.key
+*_key.txt
+
+# OS files
+.DS_Store

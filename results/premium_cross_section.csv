@@ -1,0 +1,17 @@
+input,share_source,regressor,sample,coef,se,ci_low,ci_high,p,level_effect,low_export_mean_markup,n,industries,dlw_0078_inside_ci
+materials,Census,high_export,all,0.005654,0.027619,-0.048479,0.059787,0.837796,0.008475,1.494652,671,225,False
+materials,Census,export_share_10,all,0.010357,0.00867,-0.006636,0.02735,0.232264,0.01556,1.494652,671,225,False
+materials,Census,high_export,weighted,0.011144,0.038165,-0.063658,0.085947,0.770283,0.01675,1.494652,671,225,True
+materials,Census,top_tercile,all,0.023425,0.026752,-0.029009,0.075858,0.381237,0.035425,1.494652,671,225,False
+materials,Census,high_export,2017 only,0.032729,0.029728,-0.025538,0.090996,0.270926,0.049452,1.48635,224,224,True
+payroll,Census,high_export,all,0.013663,0.047066,-0.078585,0.10591,0.771591,0.021994,1.598752,671,225,True
+payroll,Census,export_share_10,all,-0.025757,0.015485,-0.056108,0.004593,0.096239,-0.040654,1.598752,671,225,False
+payroll,Census,high_export,weighted,0.054497,0.059198,-0.061529,0.170523,0.357265,0.089545,1.598752,671,225,True
+payroll,Census,top_tercile,all,-0.025652,0.05059,-0.124807,0.073503,0.612116,-0.04049,1.598752,671,225,False
+payroll,Census,high_export,2017 only,-0.003664,0.050822,-0.103274,0.095946,0.942523,-0.005776,1.57908,224,224,True
+materials,BEA,high_export,all,0.03037,0.023338,-0.015372,0.076112,0.193157,,,671,225,False
+materials,BEA,export_share_10,all,0.014086,0.007586,-0.000782,0.028955,0.063328,,,671,225,False
+materials,BEA,top_tercile,all,0.038463,0.024323,-0.009208,0.086135,0.113792,,,671,225,True
+payroll,BEA,high_export,all,0.042058,0.057107,-0.069869,0.153986,0.461433,,,671,225,True
+payroll,BEA,export_share_10,all,-0.015569,0.018555,-0.051936,0.020799,0.40145,,,671,225,False
+payroll,BEA,top_tercile,all,-0.01758,0.059482,-0.134163,0.099003,0.767574,,,671,225,True

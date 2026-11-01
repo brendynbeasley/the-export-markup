@@ -1,0 +1,9 @@
+input,share_source,regressor,coef,se,ci_low,ci_high,p,n,industries,switchers
+materials,Census,export_share_10,-0.015296,0.017008,-0.04863,0.018038,0.368461,671,225,24
+materials,Census,high_export,-0.052635,0.029317,-0.110095,0.004825,0.072595,671,225,24
+payroll,Census,export_share_10,-0.066717,0.031405,-0.128269,-0.005165,0.033634,671,225,24
+payroll,Census,high_export,-0.058511,0.034386,-0.125908,0.008885,0.088833,671,225,24
+materials,BEA,export_share_10,0.014565,0.023804,-0.03209,0.061219,0.540624,671,225,24
+materials,BEA,high_export,-0.028846,0.026844,-0.081459,0.023766,0.282552,671,225,24
+payroll,BEA,export_share_10,-0.031247,0.026015,-0.082235,0.01974,0.229694,671,225,24
+payroll,BEA,high_export,-0.034199,0.055001,-0.141999,0.073601,0.534077,671,225,24

@@ -1,0 +1,5 @@
+year,n,pearson_within_sector,pearson_p,spearman_within_sector,share_disagree_above_below_sector_mean,median_abs_gap_log_points,sd_ln_mu_m_within,sd_ln_mu_l_within
+pooled,671,-0.498808,0.0,-0.47157,0.657228,0.246827,0.182608,0.330126
+2007,222,-0.54691,0.0,-0.512132,0.671171,0.25336,0.185078,0.337475
+2012,225,-0.531512,0.0,-0.502267,0.666667,0.249896,0.18822,0.346835
+2017,224,-0.403668,0.0,-0.400968,0.633929,0.223523,0.175085,0.306165

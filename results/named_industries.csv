@@ -1,0 +1,18 @@
+group,bea,bea_name,sector,export_share,exports,commodity_output,s_m,s_l,mu_m,mu_l,rank_m_in_sector,rank_l_in_sector
+largest exporters,336411,Aircraft manufacturing,336,0.375,50592,134840,0.386,0.111,2.102,1.518,1.0,0.75
+largest exporters,336412,Aircraft engine and engine parts manufacturing,336,0.796,34535,43359,0.506,0.133,1.602,1.274,0.792,0.458
+largest exporters,336112,Light truck and utility vehicle manufacturing,336,0.141,30441,215421,0.746,0.038,1.088,4.459,0.042,1.0
+largest exporters,325190,Other basic organic chemical manufacturing,325,0.237,27845,117608,0.631,0.062,1.257,2.351,0.111,0.944
+largest exporters,325211,Plastics material and resin manufacturing,325,0.296,26239,88537,0.651,0.07,1.219,2.087,0.056,0.889
+largest exporters,334413,Semiconductor and related device manufacturing,334,0.457,23058,50455,0.421,0.219,1.465,1.462,0.5,0.5
+largest exporters,336390,Other motor vehicle parts manufacturing,336,0.373,22810,61210,0.668,0.114,1.213,1.481,0.417,0.667
+largest exporters,325412,Pharmaceutical preparation manufacturing,325,0.145,22123,152158,0.288,0.079,2.752,1.833,1.0,0.778
+highest export share,333242,Semiconductor machinery manufacturing,333,0.791,11326,14325,0.521,0.29,1.307,0.975,0.357,0.107
+highest export share,336413,Other aircraft parts and auxiliary equipment manufacturing,336,0.522,21257,40746,0.488,0.215,1.661,0.788,0.833,0.167
+highest export share,325414,Biological product (except diagnostic) manufacturing,325,0.505,15804,31287,0.336,0.137,2.363,1.059,0.889,0.222
+lowest export share,326150,Urethane and other foam product (except polystyrene) manufacturing,326,0.001,6,10600,0.557,0.134,1.352,1.532,0.2,0.6
+lowest export share,33211A,"All other forging, stamping, and sintering",332,0.002,24,13042,0.559,0.159,1.183,1.844,0.1,0.85
+lowest export share,327320,Ready-mix concrete manufacturing,327,0.003,91,30655,0.531,0.141,1.228,1.89,0.083,0.667
+lowest export share,331520,Nonferrous metal foundries,331,0.006,77,12324,0.433,0.217,1.831,0.743,1.0,0.111
+lowest export share,332800,"Coating, engraving, heat treating and allied activities",332,0.007,179,26122,0.377,0.227,1.754,1.289,0.9,0.35
+lowest export share,325411,Medicinal and botanical manufacturing,325,0.007,78,11136,0.428,0.17,1.854,0.855,0.611,0.111
